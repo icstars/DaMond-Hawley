@@ -1,0 +1,27 @@
+title{
+    text-align: center;
+    color: #1309da;;
+}
+h1{
+    color: #1309da;;
+}
+body{
+    text-align: center;
+    background-color: coral;
+}
+button{
+    padding: 10px;
+   cursor: pointer;
+}
+input{
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #098dda;
+    border-radius: 100px;
+    font-size: 16px;
+  
+    align-items: center;
+}
+p{
+    color: #1309da;;
+}
